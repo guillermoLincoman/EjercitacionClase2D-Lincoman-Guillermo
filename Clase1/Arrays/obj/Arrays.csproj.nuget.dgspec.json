@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Guille\\Universidad 2022 Segundo Cuatri\\EjercitacionClases_2D_-GuillermoLincoman\\Clase1\\Arrays\\Arrays.csproj": {}
+    "E:\\Guille\\Universidad 2022 Segundo Cuatri\\EjercitacionClase2D-Lincoman-Guillermo\\Clase1\\Arrays\\Arrays.csproj": {}
   },
   "projects": {
-    "E:\\Guille\\Universidad 2022 Segundo Cuatri\\EjercitacionClases_2D_-GuillermoLincoman\\Clase1\\Arrays\\Arrays.csproj": {
+    "E:\\Guille\\Universidad 2022 Segundo Cuatri\\EjercitacionClase2D-Lincoman-Guillermo\\Clase1\\Arrays\\Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Guille\\Universidad 2022 Segundo Cuatri\\EjercitacionClases_2D_-GuillermoLincoman\\Clase1\\Arrays\\Arrays.csproj",
+        "projectUniqueName": "E:\\Guille\\Universidad 2022 Segundo Cuatri\\EjercitacionClase2D-Lincoman-Guillermo\\Clase1\\Arrays\\Arrays.csproj",
         "projectName": "Arrays",
-        "projectPath": "E:\\Guille\\Universidad 2022 Segundo Cuatri\\EjercitacionClases_2D_-GuillermoLincoman\\Clase1\\Arrays\\Arrays.csproj",
+        "projectPath": "E:\\Guille\\Universidad 2022 Segundo Cuatri\\EjercitacionClase2D-Lincoman-Guillermo\\Clase1\\Arrays\\Arrays.csproj",
         "packagesPath": "C:\\Users\\Compumar\\.nuget\\packages\\",
-        "outputPath": "E:\\Guille\\Universidad 2022 Segundo Cuatri\\EjercitacionClases_2D_-GuillermoLincoman\\Clase1\\Arrays\\obj\\",
+        "outputPath": "E:\\Guille\\Universidad 2022 Segundo Cuatri\\EjercitacionClase2D-Lincoman-Guillermo\\Clase1\\Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Compumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
